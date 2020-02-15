@@ -1,5 +1,6 @@
 # COVID-19-Spreading-Prediction-Using-FB-Prophet
 # What is COVID-19
+<img src="https://www.sciencealert.com/images/2020-02/49531042877_4aaa42ea6c_k.jpg">
 The new coronavirus, now known as Covid-19, was first encountered in Wuhan, China, in December 2019.
 
 Like other coronaviruses, it originated in animals and then migrated to humans. Many of those initially infected either worked or frequently shopped in the Huanan seafood wholesale market in the centre of the city, which also sold live and newly slaughtered animals. China’s national health commission has confirmed human-to-human transmission of the virus.
@@ -9,6 +10,7 @@ The virus can cause pneumonia. Those who have fallen ill are reported to suffer 
 https://www.theguardian.com/world/2020/feb/13/what-is-covid-19
 
 # What is Prophet
+<img src="https://facebook.github.io/prophet/static/wordmark.svg">
 Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
 
 https://facebook.github.io/prophet/
